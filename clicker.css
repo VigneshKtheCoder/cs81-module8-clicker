@@ -1,0 +1,16 @@
+.stuff {
+    text-align: center;
+    margin: auto;
+}
+
+body{
+    font-size: 200%;
+}
+
+button {
+    height: 100px;
+    width: 200px;
+    font-size: 100%;
+    background-color: rgb(136, 136, 194);
+    border-radius: 10px;
+}
